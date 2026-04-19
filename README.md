@@ -1,17 +1,37 @@
-# memory_game
+# Memory Game
 
-A new Flutter project.
+数字を覚えて、順番通りにタップする記憶力トレーニングゲームです。
 
-## Getting Started
+## 遊び方
 
-This project is a starting point for a Flutter application.
+1. 画面に表示された数字を10秒間覚える
+2. カードが裏返ったら、数字を順番通りにタップ
+3. 全てタップできればクリア！
 
-A few resources to get you started if this is your first Flutter project:
+## レベル
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| レベル | 特徴 |
+|--------|------|
+| Lv 1 | 数字を1から順番にタップ |
+| Lv 2 | ランダムな順番でタップ |
+| Lv 3 | カードが動く！さらに難しい順番で |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 特徴
+
+- コンボボーナスで高スコアを狙え
+- ライフ制でミスしても続けられる
+- ヒント機能で全カードを一度だけ確認可能
+- ベストスコアを記録してランク評価（S〜D）
+
+## ダウンロード
+
+App Store にて配信予定
+
+## お問い合わせ
+
+naoto_danjo@jp.honda
+
+## プライバシーポリシー
+
+本アプリは個人情報を収集しません。
+スコアデータはデバイス内にのみ保存されます。
