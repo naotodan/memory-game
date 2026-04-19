@@ -29,7 +29,7 @@ App Store にて配信予定
 
 ## お問い合わせ
 
-naoto_danjo@jp.honda
+n.d5703@icloud.com
 
 ## プライバシーポリシー
 
